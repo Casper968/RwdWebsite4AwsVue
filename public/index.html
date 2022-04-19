@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge; charset=utf-8">
+    <title>World Temperatures &mdash; Weather Around The World</title>
+    <meta name=description
+        content="Weather forecast &amp; current weather worldwide in Fahrenheit or Celsius - hour-by-hour &amp; 2 week forecast plus last week's weather.">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <style>
+        @font-face {
+            font-family: iconfont;
+            src: url("https://www.timeanddate.com/common/fonts/iconfont.woff2?v8") format("woff2"), url("https://www.timeanddate.com/common/fonts/iconfont.woff?v8") format("woff"), url("https://www.timeanddate.com/common/fonts/iconfont.ttf?v8") format("truetype"), url("https://www.timeanddate.com/common/fonts/iconfont.svg?v8#iconfont") format("svg");
+            font-weight: 400;
+            font-style: normal
+        }
+    </style>
+    <link rel=preload href="https://www.timeanddate.com/common/fonts/iconfont.woff2?v8" as=font type="font/woff2" crossorigin>
+    <link rel=preconnect href="https://c.tadst.com" crossorigin>
+    <link rel=preload href="https://www.timeanddate.com/common/global_11.css.br" as=style>
+    <link rel=alternate hreflang=de href="https://www.timeanddate.de/wetter/" />
+    <link rel=alternate hreflang=no href="https://www.timeanddate.no/vaer/" />
+    <link rel=preload href="https://www.timeanddate.com/common/prebidtad.top.desk_97.js.br" as=script>
+    
+    <link href="https://www.timeanddate.com/site.webmanifest" rel=manifest>
+    <link sizes=48x48 rel=icon href="https://www.timeanddate.com/favicon-48x48.png" type="image/png">
+    <link sizes=16x16 rel=icon type="image/png" href="https://www.timeanddate.com/favicon-16x16.png">
+    <link rel=icon sizes=32x32 href="https://www.timeanddate.com/favicon-32x32.png" type="image/png">
+    <link rel=stylesheet type="text/css" href="https://www.timeanddate.com/common/global_11.css.br">
+    <link href="https://www.timeanddate.com/common/worldclock_lists_11.css.br" type="text/css" rel=stylesheet>
+    <style>
+        .bn-header--weather {
+            background: #008F8F url(//c.tadst.com/gfx/n/citybg-map.png) 50% 5% no-repeat;
+            background-attachment: fixed;
+        }
+
+        #ad-wrap {
+            background: #008F8F
+        }
+
+        .my-city__abbr {
+            display: none;
+        }
+
+        .my-city__more {
+            z-index: 100;
+            top: 0;
+        }
+
+        @media only screen and (max-width: 50em) {
+            .my-city__more {
+                display: none;
+            }
+        }
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+  </head>
+  <body class="tpl-fluid ">
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id=header__wrapper class=header__wrapper>
+      <div id=header__inner class=header__inner>
+          <div id=header class="banner">
+              <div class=fixed>
+                  <div id=logo><a href="https://www.timeanddate.com/" rel=home title="Home page timeanddate.com">
+                          <div class="tad-logo" role="img" aria-label="timeanddate.com"></div>
+                      </a></div>
+              </div>
+          </div>
+      </div>
+  </div>
+  <div id=po1 class=po></div>
+  <div id=mpo></div>
+  <div id=anw class=alert-notice__wrap></div>
+  <div id=privacybanner class=dn></div>
+    <div id="app" class=main-content-div></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
