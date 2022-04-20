@@ -1,0 +1,2594 @@
+{
+    "capitals": ["Abu Dhabi","Manila","Accra","Maputo","Addis Ababa","Maseru","Algiers","Mbabane","Alofi","Mexico City","Amman","Minsk","Amsterdam","Monaco","Ankara","Monrovia","Antananarivo","Montevideo","Apia","Moroni","Ashgabat","Moscow","Asuncion","Muscat","Athens","N'Djamena","Baghdad","Nairobi","Baku","Nassau","Bamako","New Delhi","Bandar Seri Begawan","Ngerulmud","Bangkok","Niamey","Bangui","Nicosia","Basseterre","North Nicosia","Beijing","Nuku'alofa","Beirut","Nursultan","Belgrade","Nuuk","Belmopan","Oranjestad","Berlin","Oslo","Bern","Ottawa","Bishkek","Palikir","Bissau","Panama","Bogota","Paramaribo","Brades","Paris","Brasilia","Phnom Penh","Bratislava","Podgorica","Brazzaville","Port-au-Prince","Bridgetown","Port Louis","Brussels","Port Moresby","Bucharest","Port of Spain","Budapest","Port Vila","Buenos Aires","Porto Novo","Cairo","Prague","Canberra","Praia","Caracas","Pretoria","Castries","Pristina","Chișinău","Pyongyang","Conakry","Quito","Copenhagen","Rabat","Dakar","Rarotonga","Damascus","Reykjavik","Dhaka","Riga","Djibouti","Riyadh","Dodoma","Road Town","Doha","Rome","Douglas","Roseau","Dublin","Saint-Denis","Dushanbe","Saint George's","Freetown","Saint John's","Funafuti","San Jose","Gaborone","San Juan","George Town (Cayman)","San Marino","Georgetown (Guyana)","San Salvador","Gibraltar","Santiago","Gitega","Santo Domingo","Gizo","São Tomé","Guatemala City","Sarajevo","Hamilton","Seoul","Hanoi","Singapore","Harare","Skopje","Havana","Sofia","Helsinki","Sri Jayawardenepura Kotte","Honiara","Stanley","Islamabad","Stockholm","Jakarta","Suva","Jamestown","Taipei","Jerusalem","Tallinn","Kampala","Tashkent","Kathmandu","Tbilisi","Kigali","Tegucigalpa","Kingston","Tehran","Kingstown","Thimphu","Kinshasa","Tirana","Kuala Lumpur","Tokyo","Kuwait City","Tunis","Kyiv","Ulaanbaatar","Libreville","Vaduz","Lilongwe","Valletta","Lima","Vatican City","Lisbon","Victoria","Ljubljana","Vienna","Lomé","Vientiane","London","Vilnius","Luanda","Warsaw","Lusaka","Washington DC","Luxembourg","Wellington","Madrid","Windhoek","Majuro","Yamoussoukro","Malabo","Yaoundé","Male","Yerevan","Managua","Zagreb","Manama"],
+    "most_popular": ["Accra", "Edmonton", "New Delhi", "Addis Ababa", "Frankfurt", "New Orleans", "Adelaide", "Guatemala City", "New York", "Algiers", "Halifax", "Oslo", "Almaty", "Hanoi", "Ottawa", "Amman", "Havana", "Paris", "Amsterdam", "Helsinki", "Perth", "Anadyr", "Hong Kong", "Philadelphia", "Anchorage", "Honolulu", "Phoenix", "Ankara", "Houston", "Prague", "Antananarivo", "Indianapolis", "Reykjavik", "Asuncion", "Islamabad", "Rio de Janeiro", "Athens", "Istanbul", "Riyadh", "Atlanta", "Jakarta", "Rome", "Auckland", "Jerusalem", "Salt Lake City", "Bangkok", "Johannesburg", "San Francisco", "Barcelona", "Karachi", "San Juan", "Beijing", "Kathmandu", "San Salvador", "Beirut", "Kingston", "Santiago", "Belgrade", "Kinshasa", "Santo Domingo", "Bengaluru", "Kiritimati", "São Paulo", "Berlin", "Kolkata", "Seattle", "Bogota", "Kuala Lumpur", "Seoul", "Boston", "Kuwait City", "Shanghai", "Brasilia", "Kyiv", "Singapore", "Brisbane", "La Paz", "Sofia", "Brussels", "Lagos", "St. John's", "Bucharest", "Lahore", "Stockholm", "Budapest", "Las Vegas", "Suva", "Buenos Aires", "Lima", "Sydney", "Cairo", "Lisbon", "Taipei", "Calgary", "London", "Tallinn", "Canberra", "Los Angeles", "Tashkent", "Cape Town", "Madrid", "Tegucigalpa", "Caracas", "Managua", "Tehran", "Casablanca", "Manila", "Tokyo", "Chicago", "Melbourne", "Toronto", "Copenhagen", "Mexico City", "Vancouver", "Dallas", "Miami", "Vienna", "Dar es Salaam", "Minneapolis", "Warsaw", "Darwin", "Minsk", "Washington DC", "Denver", "Montevideo", "Winnipeg", "Detroit", "Montréal", "Yangon", "Dhaka", "Moscow", "Zagreb", "Doha", "Mumbai", "Zürich", "Dubai", "Nairobi"],
+    "popular": ["Abidjan","Hagåtña","Oral","Abu Dhabi","Halifax","Oslo","Accra","Hamilton","Ottawa","Adak","Hanoi","Palikir","Addis Ababa","Happy Valley-Goose Bay","Panama","Adelaide","Harare","Papeete","Alert","Havana","Paramaribo","Algiers","Helsinki","Paris","Alice Springs","Hermosillo","Perth","Almaty","Hobart","Petropavlovsk-Kamchatsky","Alofi","Hong Kong","Pevek","Amman","Honiara","Philadelphia","Amsterdam","Honolulu","Phnom Penh","Anadyr","Houston","Phoenix","Anchorage","Hovd","Podgorica","Ankara","Indianapolis","Pond Inlet","Antananarivo","Inuvik","Ponta Delgada","Apia","Irkutsk","Pontianak","Ashgabat","Islamabad","Port-au-Prince","Asuncion","Istanbul","Port-aux-Francais","Athens","Ittoqqortoormiit","Port Louis","Atlanta","Izhevsk","Port Moresby","Auckland","Jakarta","Port of Spain","Baghdad","Jamestown","Port Vila","Baker Lake","Jerusalem","Porto Novo","Baku","Johannesburg","Prague","Bamako","Juneau","Praia","Bandar Seri Begawan","Kaliningrad","Pretoria","Bangkok","Kampala","Punta Arenas","Bangui","Kangerlussuaq","Pyongyang","Barcelona","Kansas City","Quito","Basse-Terre","Karachi","Rabat","Beijing","Kathmandu","Rarotonga","Beirut","Kemi","Regina","Belém","Khatanga","Resolute Bay","Belgrade","Kigali","Reykjavik","Belmopan","Kingston","Riga","Belushya Guba","Kinshasa","Rio Branco","Bengaluru","Kiritimati","Rio de Janeiro","Berlin","Kolkata","Riyadh","Bern","Komsomolsk-on-Amur","Rome","Bishkek","Krasnoyarsk","Rovaniemi","Bissau","Kuala Lumpur","Saint-Denis","Bogota","Kuujjuaq","Salt Lake City","Boston","Kuwait City","Samara","Brasilia","Kyiv","San Francisco","Bratislava","La Paz","San Jose","Brazzaville","Lagos","San Juan","Bridgetown","Lahore","San Salvador","Brisbane","Las Vegas","Santiago","Brussels","Lhasa","Santo Domingo","Bucharest","Libreville","São Paulo","Budapest","Lilongwe","São Tomé","Buenos Aires","Lima","Sarajevo","Bujumbura","Lisbon","Seattle","Cairns","Ljubljana","Seoul","Cairo","Lomé","Shanghai","Calgary","London","Singapore","Canberra","Longyearbyen","Skopje","Cancún","Los Angeles","Sofia","Cape Town","Luanda","Sri Jayawardenepura Kotte","Caracas","Lusaka","St. John's","Cardiff","Luxembourg","Stanley","Casablanca","Madrid","Stockholm","Cayenne","Magadan","Suva","Chennai","Majuro","Sydney","Chibougamau","Makassar","Taipei","Chicago","Malabo","Tallinn","Chita","Male","Tashkent","Chișinău","Managua","Tbilisi","Chongqing","Manama","Tegucigalpa","Conakry","Manaus","Tehran","Copenhagen","Manila","Thimphu","Coral Harbour","Manokwari","Thule Air Base","Córdoba","Maputo","Tiksi","Dakar","Islands)","Tirana","Dallas","Mary's Harbour","Tokyo","Damascus","Maseru","Toronto","Danmarkshavn","Mbabane","Tórshavn","Dar es Salaam","Melbourne","Tromsø","Darwin","Mexico City","Tunis","Denpasar","Miami","Ulaanbaatar","Denver","Midway","Ürümqi","Detroit","Minneapolis","Valletta","Dhaka","Minsk","Vancouver","Djibouti","Monaco","Vatican City","Dnipro","Monrovia","Verkhoyansk","Dodoma","Montevideo","Victoria","Doha","Montréal","Vienna","Douglas","Moroni","Vientiane","Dubai","Moscow","Vilnius","Dublin","Mumbai","Vladivostok","Dushanbe","Muscat","Wake Island","Easter Island","N'Djamena","Warsaw","Edinburgh","Nairobi","Washington DC","Edmonton","Nassau","Wellington","El Aaiún","New Delhi","Whitehorse","Eucla","New Orleans","Windhoek","Eureka","New York","Winnipeg","Fairbanks","Ngerulmud","Yakutsk","Fortaleza","Niamey","Yamoussoukro","Frankfurt","Nicosia","Yangon","Freetown","Norilsk","Yaoundé","Funafuti","Novosibirsk","Yekaterinburg","Gaborone","Nuku'alofa","Yerevan","Georgetown","Nursultan","Yuzhno-Sakhalinsk","Gibraltar","Nuuk","Zagreb","Gitega","Oklahoma City","Zürich","Guatemala City","Omsk"],
+    "somewhat_popular_cities": [],
+    "entire": [
+        {
+            "city": "Abidjan",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Hanoi",
+            "date": "Wed 21:06",
+            "icon": "wt-13.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Papeete",
+            "date": "Wed 04:06",
+            "icon": "wt-14.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Abu Dhabi",
+            "date": "Wed 18:06",
+            "icon": "wt-1.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Happy Valley-Goose Bay",
+            "date": "Wed 11:06",
+            "icon": "wt-6.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Paramaribo",
+            "date": "Wed 11:06",
+            "icon": "wt-9.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Acapulco",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Harare",
+            "date": "Wed 16:06",
+            "icon": "wt-7.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Paris",
+            "date": "Wed 16:06",
+            "icon": "wt-1.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Accra",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "Hartford",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Patna",
+            "date": "Wed 19:36",
+            "icon": "wt-14.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Adak",
+            "date": "Wed 05:06",
+            "icon": "wt-34.svg",
+            "temp": "3 °C"
+        },
+        {
+            "city": "Havana",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Pensacola",
+            "date": "Wed 09:06",
+            "icon": "wt-1.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Addis Ababa",
+            "date": "Wed 17:06",
+            "icon": "wt-6.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Helsinki",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Perm",
+            "date": "Wed 19:06",
+            "icon": "wt-2.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Adelaide",
+            "date": "Wed 23:36",
+            "icon": "wt-14.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Hermosillo",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Perth",
+            "date": "Wed 22:06",
+            "icon": "wt-13.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Aguascalientes",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Ho Chi Minh",
+            "date": "Wed 21:06",
+            "icon": "wt-15.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Petropavlovsk-Kamchatsky",
+            "date": "Thu 02:06",
+            "icon": "wt-13.svg",
+            "temp": "2 °C"
+        },
+        {
+            "city": "Ahmedgarh",
+            "date": "Wed 19:36",
+            "icon": "wt-13.svg",
+            "temp": "38 °C"
+        },
+        {
+            "city": "Hobart",
+            "date": "Thu 00:06",
+            "icon": "wt-34.svg",
+            "temp": "10 °C"
+        },
+        {
+            "city": "Pevek",
+            "date": "Thu 02:06",
+            "icon": "wt-14.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Albuquerque",
+            "date": "Wed 08:06",
+            "icon": "wt-6.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Hong Kong",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Philadelphia",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Alert",
+            "date": "Wed 10:06",
+            "icon": "wt-3.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Honiara",
+            "date": "Thu 01:06",
+            "icon": "wt-17.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Phnom Penh",
+            "date": "Wed 21:06",
+            "icon": "wt-14.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Algiers",
+            "date": "Wed 15:06",
+            "icon": "wt-6.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Honolulu",
+            "date": "Wed 04:06",
+            "icon": "wt-14.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Phoenix",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Alice Springs",
+            "date": "Wed 23:36",
+            "icon": "wt-13.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Houston",
+            "date": "Wed 09:06",
+            "icon": "wt-6.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Podgorica",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Almaty",
+            "date": "Wed 20:06",
+            "icon": "wt-17.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Hovd",
+            "date": "Wed 21:06",
+            "icon": "wt-15.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Pond Inlet",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Alofi",
+            "date": "Wed 03:06",
+            "icon": "wt-34.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Indianapolis",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Ponta Delgada",
+            "date": "Wed 14:06",
+            "icon": "wt-6.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Amman",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Indore",
+            "date": "Wed 19:36",
+            "icon": "wt-15.svg",
+            "temp": "39 °C"
+        },
+        {
+            "city": "Pontianak",
+            "date": "Wed 21:06",
+            "icon": "wt-17.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Amsterdam",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Inuvik",
+            "date": "Wed 08:06",
+            "icon": "wt-10.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Port-au-Prince",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Anadyr",
+            "date": "Thu 02:06",
+            "icon": "wt-17.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Irkutsk",
+            "date": "Wed 22:06",
+            "icon": "wt-7.svg",
+            "temp": "5 °C"
+        },
+        {
+            "city": "Port-aux-Francais",
+            "date": "Wed 19:06",
+            "icon": "wt-7.svg",
+            "temp": "3 °C"
+        },
+        {
+            "city": "Anchorage",
+            "date": "Wed 06:06",
+            "icon": "wt-13.svg",
+            "temp": "2 °C"
+        },
+        {
+            "city": "Islamabad",
+            "date": "Wed 19:06",
+            "icon": "wt-22.svg",
+            "temp": "33 °C"
+        },
+        {
+            "city": "Port Louis",
+            "date": "Wed 18:06",
+            "icon": "wt-17.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Ankara",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Istanbul",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Port Moresby",
+            "date": "Thu 00:06",
+            "icon": "wt-14.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Antananarivo",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Ittoqqortoormiit",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Port of Spain",
+            "date": "Wed 10:06",
+            "icon": "wt-33.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Apia",
+            "date": "Thu 03:06",
+            "icon": "wt-14.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Izhevsk",
+            "date": "Wed 18:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Port Vila",
+            "date": "Thu 01:06",
+            "icon": "wt-14.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Aqtobe",
+            "date": "Wed 19:06",
+            "icon": "wt-1.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Jackson",
+            "date": "Wed 09:06",
+            "icon": "wt-1.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Portland",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Ashgabat",
+            "date": "Wed 19:06",
+            "icon": "wt-2.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Jakarta",
+            "date": "Wed 21:06",
+            "icon": "wt-14.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Porto Novo",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "Asuncion",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Jamestown",
+            "date": "Wed 14:06",
+            "icon": "wt-7.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Prague",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Athens",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Jayapura",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Praia",
+            "date": "Wed 13:06",
+            "icon": "wt-2.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Atlanta",
+            "date": "Wed 10:06",
+            "icon": "wt-1.svg",
+            "temp": "10 °C"
+        },
+        {
+            "city": "Jerusalem",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Pretoria",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Auckland",
+            "date": "Thu 02:06",
+            "icon": "wt-34.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Johannesburg",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Pristina",
+            "date": "Wed 16:06",
+            "icon": "wt-18.svg",
+            "temp": "5 °C"
+        },
+        {
+            "city": "Augusta",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Juneau",
+            "date": "Wed 06:06",
+            "icon": "wt-4.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Providence",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Austin",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Kaliningrad",
+            "date": "Wed 16:06",
+            "icon": "wt-1.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Pune",
+            "date": "Wed 19:36",
+            "icon": "wt-17.svg",
+            "temp": "35 °C"
+        },
+        {
+            "city": "Baghdad",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Kampala",
+            "date": "Wed 17:06",
+            "icon": "wt-6.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Punta Arenas",
+            "date": "Wed 11:06",
+            "icon": "wt-7.svg",
+            "temp": "6 °C"
+        },
+        {
+            "city": "Baker Lake",
+            "date": "Wed 09:06",
+            "icon": "wt-29.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Kangerlussuaq",
+            "date": "Wed 12:06",
+            "icon": "wt-2.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Pyongyang",
+            "date": "Wed 23:06",
+            "icon": "wt-13.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Baku",
+            "date": "Wed 18:06",
+            "icon": "wt-1.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Kansas City",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Québec",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "2 °C"
+        },
+        {
+            "city": "Balikpapan",
+            "date": "Wed 22:06",
+            "icon": "wt-17.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Karachi",
+            "date": "Wed 19:06",
+            "icon": "wt-13.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "Quito",
+            "date": "Wed 09:06",
+            "icon": "wt-6.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Baltimore",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Kathmandu",
+            "date": "Wed 19:51",
+            "icon": "wt-22.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Rabat",
+            "date": "Wed 14:06",
+            "icon": "wt-6.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Bamako",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "38 °C"
+        },
+        {
+            "city": "Kazan",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "10 °C"
+        },
+        {
+            "city": "Raleigh",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Bandar Seri Begawan",
+            "date": "Wed 22:06",
+            "icon": "wt-22.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Kemi",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Rapid City",
+            "date": "Wed 08:06",
+            "icon": "wt-2.svg",
+            "temp": "3 °C"
+        },
+        {
+            "city": "Bandung",
+            "date": "Wed 21:06",
+            "icon": "wt-22.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Khatanga",
+            "date": "Wed 21:06",
+            "icon": "wt-15.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Rarotonga",
+            "date": "Wed 04:06",
+            "icon": "wt-14.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Bangkok",
+            "date": "Wed 21:06",
+            "icon": "wt-14.svg",
+            "temp": "32 °C"
+        },
+        {
+            "city": "Kigali",
+            "date": "Wed 16:06",
+            "icon": "wt-18.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Recife",
+            "date": "Wed 11:06",
+            "icon": "wt-6.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Bangui",
+            "date": "Wed 15:06",
+            "icon": "wt-6.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "Kingston",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Regina",
+            "date": "Wed 08:06",
+            "icon": "wt-6.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Barcelona",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Kingstown",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Resolute Bay",
+            "date": "Wed 09:06",
+            "icon": "wt-29.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Basse-Terre (Guadeloupe)",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Kinshasa",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Reykjavik",
+            "date": "Wed 14:06",
+            "icon": "wt-18.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Basseterre (St. Kitts)",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Kiritimati",
+            "date": "Thu 04:06",
+            "icon": "wt-14.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Richmond",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Beijing",
+            "date": "Wed 22:06",
+            "icon": "wt-16.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Knoxville",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Riga",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Beirut",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Kobe",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Rio Branco",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Belém",
+            "date": "Wed 11:06",
+            "icon": "wt-6.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Kolkata",
+            "date": "Wed 19:36",
+            "icon": "wt-15.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Rio de Janeiro",
+            "date": "Wed 11:06",
+            "icon": "wt-2.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Belfast",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Komsomolsk-on-Amur",
+            "date": "Thu 00:06",
+            "icon": "wt-17.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Riyadh",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "37 °C"
+        },
+        {
+            "city": "Belgrade",
+            "date": "Wed 16:06",
+            "icon": "wt-7.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Krasnoyarsk",
+            "date": "Wed 21:06",
+            "icon": "wt-7.svg",
+            "temp": "6 °C"
+        },
+        {
+            "city": "Rome",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Belmopan",
+            "date": "Wed 08:06",
+            "icon": "wt-2.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Kuala Lumpur",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Roseau",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Belushya Guba",
+            "date": "Wed 17:06",
+            "icon": "wt-29.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Kuujjuaq",
+            "date": "Wed 10:06",
+            "icon": "wt-30.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Rovaniemi",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Bengaluru",
+            "date": "Wed 19:36",
+            "icon": "wt-15.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "Kuwait City",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "33 °C"
+        },
+        {
+            "city": "Sacramento",
+            "date": "Wed 07:06",
+            "icon": "wt-1.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Berlin",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Kyiv",
+            "date": "Wed 17:06",
+            "icon": "wt-7.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Saint-Denis",
+            "date": "Wed 18:06",
+            "icon": "wt-17.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Bern",
+            "date": "Wed 16:06",
+            "icon": "wt-1.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Kyoto",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Saint George's",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Bhubaneshwar",
+            "date": "Wed 19:36",
+            "icon": "wt-17.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "La Paz",
+            "date": "Wed 10:06",
+            "icon": "wt-3.svg",
+            "temp": "6 °C"
+        },
+        {
+            "city": "Saint John (CA - NB)",
+            "date": "Wed 11:06",
+            "icon": "wt-2.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Billings",
+            "date": "Wed 08:06",
+            "icon": "wt-2.svg",
+            "temp": "2 °C"
+        },
+        {
+            "city": "Lagos",
+            "date": "Wed 15:06",
+            "icon": "wt-6.svg",
+            "temp": "34 °C"
+        },
+        {
+            "city": "Saint John's (Antigua)",
+            "date": "Wed 10:06",
+            "icon": "wt-33.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Bishkek",
+            "date": "Wed 20:06",
+            "icon": "wt-7.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Lahore",
+            "date": "Wed 19:06",
+            "icon": "wt-13.svg",
+            "temp": "36 °C"
+        },
+        {
+            "city": "Saint-Petersburg",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Bismarck",
+            "date": "Wed 09:06",
+            "icon": "wt-1.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Las Vegas",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Salem",
+            "date": "Wed 07:06",
+            "icon": "wt-9.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Bissau",
+            "date": "Wed 14:06",
+            "icon": "wt-1.svg",
+            "temp": "35 °C"
+        },
+        {
+            "city": "Lhasa",
+            "date": "Wed 22:06",
+            "icon": "wt-16.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Salt Lake City",
+            "date": "Wed 08:06",
+            "icon": "wt-6.svg",
+            "temp": "6 °C"
+        },
+        {
+            "city": "Blanc-Sablon",
+            "date": "Wed 10:06",
+            "icon": "wt-18.svg",
+            "temp": "0 °C"
+        },
+        {
+            "city": "Libreville",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Salvador",
+            "date": "Wed 11:06",
+            "icon": "wt-20.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Bogota",
+            "date": "Wed 09:06",
+            "icon": "wt-18.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Lilongwe",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Samara",
+            "date": "Wed 18:06",
+            "icon": "wt-2.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Boise",
+            "date": "Wed 08:06",
+            "icon": "wt-6.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Lima",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "San Diego",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Boston",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Lincoln",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "San Francisco",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Brasilia",
+            "date": "Wed 11:06",
+            "icon": "wt-2.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Lisbon",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "San Jose (CR)",
+            "date": "Wed 08:06",
+            "icon": "wt-1.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Bratislava",
+            "date": "Wed 16:06",
+            "icon": "wt-1.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Little Rock",
+            "date": "Wed 09:06",
+            "icon": "wt-18.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "San Jose (USA)",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Brazzaville",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Ljubljana",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "San Juan",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Bridgetown",
+            "date": "Wed 10:06",
+            "icon": "wt-33.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Lomé",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "32 °C"
+        },
+        {
+            "city": "San Marino",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Brisbane",
+            "date": "Thu 00:06",
+            "icon": "wt-14.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "London",
+            "date": "Wed 15:06",
+            "icon": "wt-1.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "San Salvador",
+            "date": "Wed 08:06",
+            "icon": "wt-1.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Brussels",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Longyearbyen",
+            "date": "Wed 16:06",
+            "icon": "wt-28.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Santiago",
+            "date": "Wed 10:06",
+            "icon": "wt-1.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Bucharest",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Los Angeles",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Santo Domingo",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Budapest",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Louisville",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "São Paulo",
+            "date": "Wed 11:06",
+            "icon": "wt-2.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Buenos Aires",
+            "date": "Wed 11:06",
+            "icon": "wt-2.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Luanda",
+            "date": "Wed 15:06",
+            "icon": "wt-6.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "São Tomé",
+            "date": "Wed 14:06",
+            "icon": "wt-6.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Cairns",
+            "date": "Thu 00:06",
+            "icon": "wt-34.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Ludhiana",
+            "date": "Wed 19:36",
+            "icon": "wt-13.svg",
+            "temp": "38 °C"
+        },
+        {
+            "city": "Sapporo",
+            "date": "Wed 23:06",
+            "icon": "wt-13.svg",
+            "temp": "10 °C"
+        },
+        {
+            "city": "Cairo",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Lusaka",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Sarajevo",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Calgary",
+            "date": "Wed 08:06",
+            "icon": "wt-6.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Luxembourg",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Seattle",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "3 °C"
+        },
+        {
+            "city": "Canberra",
+            "date": "Thu 00:06",
+            "icon": "wt-13.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Madison",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Seoul",
+            "date": "Wed 23:06",
+            "icon": "wt-13.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Cancún",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Madrid",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Shanghai",
+            "date": "Wed 22:06",
+            "icon": "wt-13.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Cape Town",
+            "date": "Wed 16:06",
+            "icon": "wt-1.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Magadan",
+            "date": "Thu 01:06",
+            "icon": "wt-14.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Shenzhen",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Caracas",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Majuro",
+            "date": "Thu 02:06",
+            "icon": "wt-15.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Singapore",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Cardiff",
+            "date": "Wed 15:06",
+            "icon": "wt-4.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Makassar",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Sioux Falls",
+            "date": "Wed 09:06",
+            "icon": "wt-6.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Casablanca",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Makkah",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "33 °C"
+        },
+        {
+            "city": "Skopje",
+            "date": "Wed 16:06",
+            "icon": "wt-18.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Castries",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Malabo",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "32 °C"
+        },
+        {
+            "city": "Sofia",
+            "date": "Wed 17:06",
+            "icon": "wt-18.svg",
+            "temp": "5 °C"
+        },
+        {
+            "city": "Cayenne",
+            "date": "Wed 11:06",
+            "icon": "wt-6.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Male",
+            "date": "Wed 19:06",
+            "icon": "wt-15.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "Sri Jayawardenepura Kotte",
+            "date": "Wed 19:36",
+            "icon": "wt-15.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Charleston",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "2 °C"
+        },
+        {
+            "city": "Manado",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "St. John's (CA - NF)",
+            "date": "Wed 11:36",
+            "icon": "wt-7.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Chelyabinsk",
+            "date": "Wed 19:06",
+            "icon": "wt-6.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Managua",
+            "date": "Wed 08:06",
+            "icon": "wt-2.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "St. Louis",
+            "date": "Wed 09:06",
+            "icon": "wt-18.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Chennai",
+            "date": "Wed 19:36",
+            "icon": "wt-15.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "Manama",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "St. Paul",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Cheyenne",
+            "date": "Wed 08:06",
+            "icon": "wt-1.svg",
+            "temp": "3 °C"
+        },
+        {
+            "city": "Manaus",
+            "date": "Wed 10:06",
+            "icon": "wt-19.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Stanley",
+            "date": "Wed 11:06",
+            "icon": "wt-2.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Chibougamau",
+            "date": "Wed 10:06",
+            "icon": "wt-29.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Manila",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Stockholm",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Chicago",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Manokwari",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Surabaya",
+            "date": "Wed 21:06",
+            "icon": "wt-17.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Chita",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Maputo",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Suva",
+            "date": "Thu 02:06",
+            "icon": "wt-14.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Chișinău",
+            "date": "Wed 17:06",
+            "icon": "wt-6.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Marion Island (Prince Edward Islands)",
+            "date": "Wed 17:06",
+            "icon": "wt-9.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Suzhou",
+            "date": "Wed 22:06",
+            "icon": "wt-13.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Chongqing",
+            "date": "Wed 22:06",
+            "icon": "wt-13.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Mary's Harbour",
+            "date": "Wed 11:36",
+            "icon": "wt-29.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Sydney",
+            "date": "Thu 00:06",
+            "icon": "wt-14.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Colombo",
+            "date": "Wed 19:36",
+            "icon": "wt-15.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Maseru",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Taipei",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Columbia",
+            "date": "Wed 10:06",
+            "icon": "wt-1.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Mazatlan",
+            "date": "Wed 08:06",
+            "icon": "wt-9.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Tallinn",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Columbus",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Mbabane",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Tashkent",
+            "date": "Wed 19:06",
+            "icon": "wt-2.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Conakry",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "33 °C"
+        },
+        {
+            "city": "Medina",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "39 °C"
+        },
+        {
+            "city": "Tbilisi",
+            "date": "Wed 18:06",
+            "icon": "wt-7.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Concord",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "6 °C"
+        },
+        {
+            "city": "Melbourne",
+            "date": "Thu 00:06",
+            "icon": "wt-14.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Tegucigalpa",
+            "date": "Wed 08:06",
+            "icon": "wt-6.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Copenhagen",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Mexicali",
+            "date": "Wed 07:06",
+            "icon": "wt-1.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Tehran",
+            "date": "Wed 18:36",
+            "icon": "wt-2.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Coral Harbour",
+            "date": "Wed 09:06",
+            "icon": "wt-29.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Mexico City",
+            "date": "Wed 09:06",
+            "icon": "wt-1.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Tel Aviv",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Córdoba",
+            "date": "Wed 11:06",
+            "icon": "wt-6.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Miami",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Thimphu",
+            "date": "Wed 20:06",
+            "icon": "wt-17.svg",
+            "temp": "6 °C"
+        },
+        {
+            "city": "Dakar",
+            "date": "Wed 14:06",
+            "icon": "wt-1.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Midland",
+            "date": "Wed 09:06",
+            "icon": "wt-1.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Thiruvananthapuram",
+            "date": "Wed 19:36",
+            "icon": "wt-17.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Dallas",
+            "date": "Wed 09:06",
+            "icon": "wt-18.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Midway",
+            "date": "Wed 03:06",
+            "icon": "wt-14.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Thule Air Base",
+            "date": "Wed 11:06",
+            "icon": "wt-10.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Damascus",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Milan",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Tijuana",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Danmarkshavn",
+            "date": "Wed 14:06",
+            "icon": "wt-7.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Milwaukee",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "5 °C"
+        },
+        {
+            "city": "Tiksi",
+            "date": "Wed 23:06",
+            "icon": "wt-15.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Dar es Salaam",
+            "date": "Wed 17:06",
+            "icon": "wt-6.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Minneapolis",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "6 °C"
+        },
+        {
+            "city": "Tirana",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Darwin",
+            "date": "Wed 23:36",
+            "icon": "wt-13.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Minsk",
+            "date": "Wed 17:06",
+            "icon": "wt-18.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Tokyo",
+            "date": "Wed 23:06",
+            "icon": "wt-17.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Delhi",
+            "date": "Wed 19:36",
+            "icon": "wt-14.svg",
+            "temp": "40 °C"
+        },
+        {
+            "city": "Monaco",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Topeka",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Denpasar",
+            "date": "Wed 22:06",
+            "icon": "wt-17.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "Monrovia",
+            "date": "Wed 14:06",
+            "icon": "wt-22.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Toronto",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Denver",
+            "date": "Wed 08:06",
+            "icon": "wt-2.svg",
+            "temp": "5 °C"
+        },
+        {
+            "city": "Montevideo",
+            "date": "Wed 11:06",
+            "icon": "wt-2.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Tórshavn",
+            "date": "Wed 15:06",
+            "icon": "wt-6.svg",
+            "temp": "10 °C"
+        },
+        {
+            "city": "Des Moines",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Montgomery",
+            "date": "Wed 09:06",
+            "icon": "wt-1.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Tromsø",
+            "date": "Wed 16:06",
+            "icon": "wt-1.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Detroit",
+            "date": "Wed 10:06",
+            "icon": "wt-1.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Montpelier",
+            "date": "Wed 10:06",
+            "icon": "wt-7.svg",
+            "temp": "2 °C"
+        },
+        {
+            "city": "Tunis",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Dhaka",
+            "date": "Wed 20:06",
+            "icon": "wt-14.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Montréal",
+            "date": "Wed 10:06",
+            "icon": "wt-7.svg",
+            "temp": "2 °C"
+        },
+        {
+            "city": "Ufa",
+            "date": "Wed 19:06",
+            "icon": "wt-18.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Djibouti",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "33 °C"
+        },
+        {
+            "city": "Moroni",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "32 °C"
+        },
+        {
+            "city": "Ulaanbaatar",
+            "date": "Wed 22:06",
+            "icon": "wt-14.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Dnipro",
+            "date": "Wed 17:06",
+            "icon": "wt-18.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Moscow",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Ürümqi",
+            "date": "Wed 22:06",
+            "icon": "wt-16.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Dodoma",
+            "date": "Wed 17:06",
+            "icon": "wt-6.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Mumbai",
+            "date": "Wed 19:36",
+            "icon": "wt-17.svg",
+            "temp": "32 °C"
+        },
+        {
+            "city": "Vaduz",
+            "date": "Wed 16:06",
+            "icon": "wt-3.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Doha",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Murmansk",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Valletta",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Douglas",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Muscat",
+            "date": "Wed 18:06",
+            "icon": "wt-1.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Vancouver",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Dover",
+            "date": "Wed 10:06",
+            "icon": "wt-1.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "N'Djamena",
+            "date": "Wed 15:06",
+            "icon": "wt-1.svg",
+            "temp": "41 °C"
+        },
+        {
+            "city": "Varanasi",
+            "date": "Wed 19:36",
+            "icon": "wt-13.svg",
+            "temp": "41 °C"
+        },
+        {
+            "city": "Dubai",
+            "date": "Wed 18:06",
+            "icon": "wt-2.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Nagoya",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Vatican City",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Dublin",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Nairobi",
+            "date": "Wed 17:06",
+            "icon": "wt-6.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Veracruz",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Dushanbe",
+            "date": "Wed 19:06",
+            "icon": "wt-17.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Nashville",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Verkhoyansk",
+            "date": "Thu 00:06",
+            "icon": "wt-17.svg",
+            "temp": "0 °C"
+        },
+        {
+            "city": "Easter Island",
+            "date": "Wed 08:06",
+            "icon": "wt-2.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Nassau",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Victoria",
+            "date": "Wed 18:06",
+            "icon": "wt-2.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Edinburgh",
+            "date": "Wed 15:06",
+            "icon": "wt-9.svg",
+            "temp": "10 °C"
+        },
+        {
+            "city": "New Delhi",
+            "date": "Wed 19:36",
+            "icon": "wt-14.svg",
+            "temp": "40 °C"
+        },
+        {
+            "city": "Vienna",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Edmonton",
+            "date": "Wed 08:06",
+            "icon": "wt-6.svg",
+            "temp": "3 °C"
+        },
+        {
+            "city": "New Orleans",
+            "date": "Wed 09:06",
+            "icon": "wt-1.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Vientiane",
+            "date": "Wed 21:06",
+            "icon": "wt-14.svg",
+            "temp": "26 °C"
+        },
+        {
+            "city": "El Aaiún",
+            "date": "Wed 14:06",
+            "icon": "wt-11.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "New York",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Vilnius",
+            "date": "Wed 17:06",
+            "icon": "wt-6.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Eucla",
+            "date": "Wed 22:51",
+            "icon": "wt-15.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Newark",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "9 °C"
+        },
+        {
+            "city": "Vladivostok",
+            "date": "Thu 00:06",
+            "icon": "wt-14.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Eureka",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Ngerulmud",
+            "date": "Wed 23:06",
+            "icon": "wt-17.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Wake Island",
+            "date": "Thu 02:06",
+            "icon": "wt-14.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Fairbanks",
+            "date": "Wed 06:06",
+            "icon": "wt-1.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Niamey",
+            "date": "Wed 15:06",
+            "icon": "wt-1.svg",
+            "temp": "41 °C"
+        },
+        {
+            "city": "Warsaw",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Fort-de-France",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Nicosia",
+            "date": "Wed 17:06",
+            "icon": "wt-2.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Washington DC",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "10 °C"
+        },
+        {
+            "city": "Fortaleza",
+            "date": "Wed 11:06",
+            "icon": "wt-6.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Norilsk",
+            "date": "Wed 21:06",
+            "icon": "wt-2.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Wellington",
+            "date": "Thu 02:06",
+            "icon": "wt-14.svg",
+            "temp": "20 °C"
+        },
+        {
+            "city": "Frankfurt",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Novgorod",
+            "date": "Wed 17:06",
+            "icon": "wt-1.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Whitehorse",
+            "date": "Wed 07:06",
+            "icon": "wt-2.svg",
+            "temp": "4 °C"
+        },
+        {
+            "city": "Freetown",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "28 °C"
+        },
+        {
+            "city": "Novosibirsk",
+            "date": "Wed 21:06",
+            "icon": "wt-15.svg",
+            "temp": "8 °C"
+        },
+        {
+            "city": "Windhoek",
+            "date": "Wed 16:06",
+            "icon": "wt-1.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Funafuti",
+            "date": "Thu 02:06",
+            "icon": "wt-14.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Nuku'alofa",
+            "date": "Thu 03:06",
+            "icon": "wt-34.svg",
+            "temp": "23 °C"
+        },
+        {
+            "city": "Winnipeg",
+            "date": "Wed 09:06",
+            "icon": "wt-29.svg",
+            "temp": "2 °C"
+        },
+        {
+            "city": "Gaborone",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Nursultan",
+            "date": "Wed 20:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Yakutsk",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "3 °C"
+        },
+        {
+            "city": "Geneva",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Nuuk",
+            "date": "Wed 12:06",
+            "icon": "wt-2.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Yamoussoukro",
+            "date": "Wed 14:06",
+            "icon": "wt-2.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "George Town (Cayman)",
+            "date": "Wed 09:06",
+            "icon": "wt-18.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Oklahoma City",
+            "date": "Wed 09:06",
+            "icon": "wt-7.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Yangon",
+            "date": "Wed 20:36",
+            "icon": "wt-14.svg",
+            "temp": "31 °C"
+        },
+        {
+            "city": "Georgetown (Guyana)",
+            "date": "Wed 10:06",
+            "icon": "wt-2.svg",
+            "temp": "29 °C"
+        },
+        {
+            "city": "Omsk",
+            "date": "Wed 20:06",
+            "icon": "wt-7.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Yaoundé",
+            "date": "Wed 15:06",
+            "icon": "wt-2.svg",
+            "temp": "30 °C"
+        },
+        {
+            "city": "Gibraltar",
+            "date": "Wed 16:06",
+            "icon": "wt-6.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Oral",
+            "date": "Wed 19:06",
+            "icon": "wt-1.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Yekaterinburg",
+            "date": "Wed 19:06",
+            "icon": "wt-1.svg",
+            "temp": "13 °C"
+        },
+        {
+            "city": "Glasgow",
+            "date": "Wed 15:06",
+            "icon": "wt-4.svg",
+            "temp": "15 °C"
+        },
+        {
+            "city": "Orlando",
+            "date": "Wed 10:06",
+            "icon": "wt-1.svg",
+            "temp": "22 °C"
+        },
+        {
+            "city": "Yellowknife",
+            "date": "Wed 08:06",
+            "icon": "wt-1.svg",
+            "temp": "11 °C"
+        },
+        {
+            "city": "Guadalajara",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Osaka",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Yerevan",
+            "date": "Wed 18:06",
+            "icon": "wt-7.svg",
+            "temp": "16 °C"
+        },
+        {
+            "city": "Guatemala City",
+            "date": "Wed 08:06",
+            "icon": "wt-1.svg",
+            "temp": "17 °C"
+        },
+        {
+            "city": "Oslo",
+            "date": "Wed 16:06",
+            "icon": "wt-1.svg",
+            "temp": "18 °C"
+        },
+        {
+            "city": "Yokohama",
+            "date": "Wed 23:06",
+            "icon": "wt-14.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Guayaquil",
+            "date": "Wed 09:06",
+            "icon": "wt-6.svg",
+            "temp": "25 °C"
+        },
+        {
+            "city": "Ottawa",
+            "date": "Wed 10:06",
+            "icon": "wt-6.svg",
+            "temp": "1 °C"
+        },
+        {
+            "city": "Yuzhno-Sakhalinsk",
+            "date": "Thu 01:06",
+            "icon": "wt-13.svg",
+            "temp": "10 °C"
+        },
+        {
+            "city": "Hagåtña",
+            "date": "Thu 00:06",
+            "icon": "wt-14.svg",
+            "temp": "27 °C"
+        },
+        {
+            "city": "Palikir",
+            "date": "Thu 01:06",
+            "icon": "wt-17.svg",
+            "temp": "24 °C"
+        },
+        {
+            "city": "Zagreb",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "12 °C"
+        },
+        {
+            "city": "Halifax",
+            "date": "Wed 11:06",
+            "icon": "wt-2.svg",
+            "temp": "7 °C"
+        },
+        {
+            "city": "Palma",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "19 °C"
+        },
+        {
+            "city": "Zürich",
+            "date": "Wed 16:06",
+            "icon": "wt-2.svg",
+            "temp": "14 °C"
+        },
+        {
+            "city": "Hamilton",
+            "date": "Wed 11:06",
+            "icon": "wt-18.svg",
+            "temp": "21 °C"
+        },
+        {
+            "city": "Panama",
+            "date": "Wed 09:06",
+            "icon": "wt-2.svg",
+            "temp": "27 °C"
+        }
+    ]
+}
