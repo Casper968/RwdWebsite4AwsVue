@@ -5,10 +5,8 @@
                 <table class="zebra fw tb-theme">
                     <search-form></search-form>
                     <tbody>
-                        <tr>
-                            <weather-cell></weather-cell>
-                            <weather-cell></weather-cell>
-                            <weather-cell></weather-cell>
+                        <tr v-for="row in cellRow" :key="row.rowId">
+                            <weather-cell v-for="cell in row.cells" :key="cell.city" :city="cell.city" :icon="cell.icon" :time="cell.date" :temp="cell.temp"></weather-cell>
                         </tr>
                     </tbody>
                 </table>
@@ -17,24 +15,41 @@
     </section>
 </template>
 <script>
+    import uniqueId from "lodash.uniqueid";
     import SearchForm from "./SearchForm.vue";
     import WeatherCell from "./WeatherCell.vue";
     export default {
         props: {
-            // to do
+            cellInfo: { required: true, default: [], type: [] },
         },
         components: {
             SearchForm,
             WeatherCell
         },
         methods: {
-            // to do
         },
         computed: {
             // to do
         },
         data() {
-            // to do
+            return {
+                cellRow : []
+            }
+        },
+        beforeMount() {
+            let currentRow = {'rowId': '', 'cells': []};
+            this.cellInfo.forEach((cell, index) => {
+                if (index %3 === 0) {
+                    currentRow = {'rowId': uniqueId('rowId-'), 'cells': []};
+                }
+                currentRow.cells.push(cell);
+                if (currentRow.cells.length === 3) {
+                    this.cellRow.push(currentRow);
+                }
+            });
+            if (currentRow.cells.length > 0 && currentRow.cells.length < 3) {
+                this.cellRow.push(currentRow);
+            }
         }
 };
 </script>
