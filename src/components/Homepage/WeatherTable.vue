@@ -20,7 +20,7 @@
     import WeatherCell from "./WeatherCell.vue";
     export default {
         props: {
-            cellInfo: { required: true, default: [], type: [] },
+            cellInfo: { required: true, default: [] },
             rowCellCount: { required: false, default: 3, type: Number },
         },
         components: {
