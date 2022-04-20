@@ -70,4 +70,8 @@ body {
     line-height: 1.31579;
   }
 } */
+
+.header__wrapper {
+  height: 90px;
+}
 /*END RESETS*/
