@@ -4,11 +4,13 @@
             <div class=tb-scroll>
                 <table class="zebra fw tb-theme">
                     <search-form></search-form>
-                    <tr>
-                        <weather-cell></weather-cell>
-                        <weather-cell></weather-cell>
-                        <weather-cell></weather-cell>
-                    </tr>
+                    <tbody>
+                        <tr>
+                            <weather-cell></weather-cell>
+                            <weather-cell></weather-cell>
+                            <weather-cell></weather-cell>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
