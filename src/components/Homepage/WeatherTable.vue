@@ -21,6 +21,7 @@
     export default {
         props: {
             cellInfo: { required: true, default: [], type: [] },
+            rowCellCount: { required: false, default: 3, type: Number },
         },
         components: {
             SearchForm,
@@ -39,7 +40,7 @@
         beforeMount() {
             let currentRow = {'rowId': '', 'cells': []};
             this.cellInfo.forEach((cell, index) => {
-                if (index %3 === 0) {
+                if (index % this.rowCellCount === 0) {
                     currentRow = {'rowId': uniqueId('rowId-'), 'cells': []};
                 }
                 currentRow.cells.push(cell);
@@ -47,7 +48,7 @@
                     this.cellRow.push(currentRow);
                 }
             });
-            if (currentRow.cells.length > 0 && currentRow.cells.length < 3) {
+            if (currentRow.cells.length > 0 && currentRow.cells.length < this.rowCellCount) {
                 this.cellRow.push(currentRow);
             }
         }
