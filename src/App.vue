@@ -5,6 +5,7 @@
 </template>
 
 <script>
+import { /*computed, ref, */reactive } from 'vue';
 import HeaderSection from './components/Homepage/HeaderSection.vue';
 import WeatherTable from "./components/Homepage/WeatherTable.vue";
 import CityDataJson from './json/CityData.json'
@@ -17,9 +18,28 @@ export default {
     WeatherTable
   },
   methods: {
-    // clearData() {
-    //   this.computedWeatherCellDatas = this.WeatherCellDatas469;
-    // }
+    sortByChange(option) {
+      console.log(`sort by change event: ${option}`);
+      switch (option) {
+        case 0:
+          // sort by city
+          this.sortByCity();
+          break;
+        case 2:
+          // sort by time
+          this.sortByTime();
+          break;
+        case 6:
+          // sort by temp
+          this.sortByTemp();
+          break;
+        default:
+          break;
+      }
+    },
+    sortByCity() {},
+    sortByTime() {},
+    sortByTemp() {},
   },
   computed: {
     computedWeatherCellDatas: { 
@@ -31,16 +51,27 @@ export default {
         this.WeatherCellDatas = v;
       }
     }
-    
   },
   data() {
     return {
       TableKey: 0,
-      WeatherCellDatas: CityDataJson.entire
+      WeatherCellDatas: CityDataJson.entire,
+      Sort: 6
     };
+  },
+  provide() {
+    return {
+      sort: reactive(() => this.Sort) // this.sortOption
+    }
   },
   beforeMount() {
     this.computedWeatherCellDatas = CityDataJson.entire.filter(cell => CityDataJson.most_popular.includes(cell.city))
+  },
+  mounted() {
+    this.eventBus.on('search-form-sort-option-change', (option) => {
+      console.log(`search-form-sort-option-change: ${option}`);
+      // this.sortByChange(option);
+    });
   }
 };
 </script>
