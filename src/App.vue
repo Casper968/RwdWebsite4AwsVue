@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { /*computed, ref, */reactive } from 'vue';
+import { computed/*, ref, reactive*/ } from 'vue';
 import HeaderSection from './components/Homepage/HeaderSection.vue';
 import WeatherTable from "./components/Homepage/WeatherTable.vue";
 import CityDataJson from './json/CityData.json'
@@ -21,25 +21,57 @@ export default {
     sortByChange(option) {
       console.log(`sort by change event: ${option}`);
       switch (option) {
-        case 0:
+        case '0':
           // sort by city
-          this.sortByCity();
+          this.TableKey++;
+          this.computedWeatherCellDatas = this.sortByCity();
           break;
-        case 2:
+        case '2':
           // sort by time
           this.sortByTime();
           break;
-        case 6:
+        case '6':
           // sort by temp
-          this.sortByTemp();
+          this.TableKey++;
+          this.computedWeatherCellDatas = this.sortByTemp();
           break;
         default:
           break;
       }
     },
-    sortByCity() {},
+    sortByCity() {
+      return this.WeatherCellDatas.sort(function(a, b){
+        var cityA = a.city.toUpperCase();
+        var cityB = b.city.toUpperCase();
+
+        if (cityA > cityB) {
+          return 1;
+        }
+
+        if (cityA < cityB) {
+          return -1;
+        }
+
+        return 0;
+      });
+    },
     sortByTime() {},
-    sortByTemp() {},
+    sortByTemp() {
+      return this.WeatherCellDatas.sort(function(a, b){
+        var tempA = parseInt(a.temp.replace('  °C', ''));
+        var tempB = parseInt(b.temp.replace('  °C', ''));
+
+        if (tempA > tempB) {
+          return 1;
+        }
+
+        if (tempA < tempB) {
+          return -1;
+        }
+
+        return 0;
+      });
+    }
   },
   computed: {
     computedWeatherCellDatas: { 
@@ -61,17 +93,21 @@ export default {
   },
   provide() {
     return {
-      sort: reactive(() => this.Sort) // this.sortOption
+      sort: computed(this.Sort) // this.sortOption
     }
   },
   beforeMount() {
-    this.computedWeatherCellDatas = CityDataJson.entire.filter(cell => CityDataJson.most_popular.includes(cell.city))
+    this.computedWeatherCellDatas = CityDataJson.entire.filter(cell => CityDataJson.most_popular.includes(cell.city));
+    this.sortByChange(0);
   },
   mounted() {
     this.eventBus.on('search-form-sort-option-change', (option) => {
       console.log(`search-form-sort-option-change: ${option}`);
-      // this.sortByChange(option);
+      this.sortByChange(option);
     });
+  },
+  beforeUnmount() {
+    this.eventBus.off('search-form-sort-option-change');
   }
 };
 </script>
