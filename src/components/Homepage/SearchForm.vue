@@ -59,7 +59,7 @@ export default {
     // to do
   },
   data() {
-    // to do
+    return {};
   },
 };
 </script>
